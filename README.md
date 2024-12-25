@@ -49,6 +49,7 @@ PORT=3000
 npm run dev
 
 Сервер будет доступен по адресу: http://localhost:3000.
+
 2. Запустите в продакшн-режиме:
 
 npm run build
