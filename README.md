@@ -3,13 +3,7 @@ eedback API
 
 API для управления обратной связью с поддержкой категорий, статусов, голосования и аутентификации пользователей.
 Стэк технологий
-
-    Node.js
-    TypeScript
-    Express.js
-    Sequelize
-    PostgreSQL
-    JWT
+Node.js / TypeScript / Express.js / Sequelize / PostgreSQL / JWT
 
 Установка и настройка окружения
 1. Установите зависимости:
